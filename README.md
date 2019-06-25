@@ -23,5 +23,5 @@
 
 5. Preview
 
-![Hacker News Search](https://imgur.com/9TRyPdz)
+![Hacker News Search](http://i.imgur.com/9TRyPdzg.png)
 
