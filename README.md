@@ -21,3 +21,7 @@
     ```
 4. Browse to `http://localhost:3000/`
 
+5. Preview
+
+![Hacker News Search](https://imgur.com/9TRyPdz)
+
